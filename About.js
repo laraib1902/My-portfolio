@@ -18,7 +18,7 @@ export default function About() {
           </p>
           <p>
             <span className="font-semibold text-slate-900 dark:text-white">Education: </span>
-            B.Tech in Computer Science, Krishna Institute of Technology, Kanpur (71%).
+            B.Tech in Computer Science, Krishna Institute of Technology, Kanpur (71%) 2026.
           </p>
           <p>
             <span className="font-semibold text-slate-900 dark:text-white">Achievements: </span>
